@@ -1,5 +1,5 @@
 
-## 📊 Revenue Insights in Hospitality Domain
+## 📊 Revenue Insights in Hospitality Domain 
 
 ### 📌 Project Overview  
 This project analyzes key performance metrics in the hospitality sector using **Power BI**. The dashboard provides insights into revenue, occupancy rates, ADR (Average Daily Rate), RevPAR (Revenue per Available Room), and other essential business KPIs across different cities, room classes, and booking platforms.
